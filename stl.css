@@ -1,0 +1,44 @@
+/* Menu */
+.menu{
+    text-decoration: none;
+    overflow: hidden;
+    background-color: #005DAB;
+    width:100%;
+    padding:7px 7px;
+}
+.menu .ordinary{
+    text-decoration: none;
+    float:left;
+    color: whitesmoke;
+    text-align: center;
+    padding: 22px;
+    border: 7px;
+    border-radius: 3px;
+    font-size: 17px;
+    line-height: 10px;
+    transition: all 0.2s ease;
+}
+.menu .ordinary:hover{
+    background-color: #0079DE;
+}
+/* Body */
+body{
+    background-color: #282828;
+    margin: 0;
+    font-style: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/* footer */
+.fin{
+    overflow:hidden;
+    color:white;
+}
+.fin a{
+    float: left;
+}
+.fin p{
+    float:right;
+}
+/* Home */
+/* https://www.canva.com/colors/color-wheel/ */  
+/*https://visme.co/blog/website-color-schemes/*/

@@ -1,0 +1,47 @@
+.menu{
+    text-decoration: none;
+    overflow: hidden;
+    background-color: darkcyan;
+    width:100%;
+}
+#plusieur{
+    background-color: cornflowerblue;
+    float: right;
+    padding: 15px;
+    font-size: larger;
+}
+#imagem{
+    float:left;
+    padding: 3px;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+#nouveau_menu{
+    display: none;
+    transition: all 0.5s ease;
+    background-color: cornflowerblue;
+    text-align: center;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+tr{
+    border: 1px whitesmoke;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+.big_ones{
+    text-align:center;
+}
+.actualite{
+    background-color: darkgrey;
+    border-radius: 10px;
+    padding: 5px;
+    color:black;
+    text-align: left;
+}
+body{
+    background-color: black;
+    color:white;
+}
