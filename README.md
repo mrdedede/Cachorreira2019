@@ -12,6 +12,7 @@ Aqui encontramos os componentes importantes do site:
 - Arquivos das eleições (no mínimo 3 eram úteis para a lógica da aplicação)
 - Gerador de ID de eleitor
 - Arquivos onde se iriam votar nos casos de eleição (inclusive, com seus dados apagados, para evitar roubos de informações pessoais)
+- Arquivos da homepage mobile
 
 Espero que vocês façam bom proveito desses arquivos.
 
